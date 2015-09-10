@@ -1,0 +1,6 @@
+*.pyc
+*.html
+*.zip
+content_cache.json
+cached_location.json
+/.project
